@@ -52,6 +52,7 @@ to clean the area around the piercing.
 Carefully put the bolt in the hollow of the insertion tool.
 
 ![](media/boltNearTool.jpg)
+
 ![](media/boltinTool.jpg)
 
 Put some Neosporin on the insertion tool to act as a lubricant.
