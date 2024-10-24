@@ -69,8 +69,9 @@ The insertion tool will come out leaving the bolt in place.
 ![]()
 
 Now comes the hard part: putting the nut on. 
-Do this over your bed or a surface 
-where you can see the nut if you drop it.
+Do this over a towel on your kitchen counter
+or some other surface that doesn't bounce
+and where you can see the nut if you drop it.
 
 If you got the regular nut put it on as tight as you feel comfortable with.
 Don't make it too tight or you will hurt your ear (or wherever the piercing
