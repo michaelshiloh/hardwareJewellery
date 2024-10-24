@@ -12,10 +12,14 @@ Decide what gauge you want. I started with 1.6 mm. It's hard to buy a
    single bolt so you'll end up with lots of spares which is good, they are
    tiny and easy to drop. Be sure to get stainless steel and that the pitch of
    the bolt matches the pitch of the nut (that's the 0.35mm after the
-   diameter):
+   length):
 
-- [M1.6x8mmx0.35mm Stainless Steel Hex Socket Head Cap Screws 100
-Pcs](https://www.amazon.com/gp/product/B00XP4ORF2/)
+For the length, figure the thickness of your ear (or whatever you're piercing
+is through) and add the thickness of the nut, plus a little bit extra. For my
+ears 8 mm was perfect.
+
+- [M1.6x8mmx0.35mm Stainless Steel Hex Socket Head Cap Screws 100 Pcs](https://www.amazon.com/gp/product/B00XP4ORF2/)
+(diameter 1.6 mm, length 8mm, thread pitch 0.35mm)
 
 - [300PCS Metric M1 M1.2 M1.4 M1.6 M2 M2.5 M3 M3.5 304 Stainless Steel Hex Nuts
 Assortment Kit for Screws and
@@ -43,10 +47,23 @@ Poor some alcohol into a small cup or bowl so that you can soak the insertion
 tool and bolts and nuts. Let soak for awhile. Wash your hands. Use the alcohol
 to clean the area around the piercing.
 
-Put some Neosporin on the insertion tool to act as a lubricant and insert it
-into the piercing halfway. Carefully put the bolt in the hollow of the
-insertion tool and push it through the piercing. The insertion tool will come
-out leaving the bolt in place.
+![](media/soaking.jpg)
+
+Carefully put the bolt in the hollow of the insertion tool.
+
+![](media/boltNearTool.jpg)
+![](media/boltinTool.jpg)
+
+Put some Neosporin on the insertion tool to act as a lubricant.
+
+![](media/neosporin.jpg)
+
+Carefully holding the bolt in the insertion tool,
+insert the tip of the insertion tool into the piercing,
+and push it it from the bolt all the way through the piercing. 
+The insertion tool will come out leaving the bolt in place.
+
+![]()
 
 Now comes the hard part: putting the nut on. 
 Do this over your bed or a surface 
@@ -65,3 +82,6 @@ to tighten it:
 
 - [1.5mm Allen wrench](https://www.amazon.com/Wera-05118066001-Screwdriver-Electronic-Applications/dp/B0001P18OQ/)
 - [4mm nut driver](https://www.amazon.com/Wera-05118120001-Nutspinner-Electronics-Screwdriver/dp/B003ES5MLM/)
+
+Once again, don't make it too tight. I did mine just until the bolt passed
+through the nylon lock nut.
