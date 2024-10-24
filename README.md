@@ -55,7 +55,7 @@ Carefully put the bolt in the hollow of the insertion tool:
 
 Make sure the bolt is seated well in the insertion tool:
 
-![](media/boltinTool.jpg)
+![](media/boltInTool.jpg)
 
 Put some Neosporin on the insertion tool to act as a lubricant:
 
